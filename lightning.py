@@ -9,7 +9,6 @@ import torch
 from torch._C import device
 from torch.nn import functional as F
 import torch.nn as nn
-# from pytorch_lightning.core.lightning import LightningModule
 import pytorch_lightning as pl
 from torchvision.models import resnet34
 from torchvision import transforms, datasets
